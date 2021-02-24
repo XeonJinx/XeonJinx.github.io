@@ -17,7 +17,7 @@ store:
     # Whether or not the trait list will display trait stats.
     stats: false
     # Whether or not the trait list will display karma type overrides.
-    karma: true
+    karma: false
     # Whether or not the trait list will display whether or not a trait bypasses the trait limit.
     limit: true
     # Whether or not the trait list will display trait descriptions.
@@ -35,7 +35,7 @@ store:
     # Whether or not the item list will display an item's purchase weight.
     weight: false
     # Whether or not the item list will display an item's karma type override.
-    karma: true
+    karma: false
     # Whether or not the item list will display an item's quantity limit.
     quantity: false
     # Whether or not the item list will display the mod that added it.
