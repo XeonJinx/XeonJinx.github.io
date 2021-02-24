@@ -13,9 +13,9 @@ github_username: 'XeonJinx'
 store:
   traits:
     # Whether or not the trait list will display conflicts with other traits.
-    conflicts: true
+    conflicts: false
     # Whether or not the trait list will display trait stats.
-    stats: true
+    stats: false
     # Whether or not the trait list will display karma type overrides.
     karma: true
     # Whether or not the trait list will display whether or not a trait bypasses the trait limit.
