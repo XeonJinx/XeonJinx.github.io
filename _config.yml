@@ -2,7 +2,7 @@
 title: "Store | Xeon’s Purchase List"
 favicon: assets/img/favicon.png
 description: >-
-An expanded item list for Bogrin’s TwitchToolkit that supports ToolkitUtils’ shop.
+ An expanded item list for Bogrin’s TwitchToolkit that supports ToolkitUtils’ shop.
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
