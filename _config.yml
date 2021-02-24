@@ -1,0 +1,80 @@
+# Metadata
+title: "SirRandoo's Purchase List"
+favicon: assets/img/favicon.png
+description: >-
+  An expanded item list for TwitchToolkit that supports most ToolkitUtils' shop.
+
+baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ''
+github_username: 'sirrandoo'
+
+# Item list settings
+store:
+  traits:
+    # Whether or not the trait list will display conflicts with other traits.
+    conflicts: true
+    # Whether or not the trait list will display trait stats.
+    stats: true
+    # Whether or not the trait list will display karma type overrides.
+    karma: true
+    # Whether or not the trait list will display whether or not a trait bypasses the trait limit.
+    limit: true
+    # Whether or not the trait list will display trait descriptions.
+    description: true
+    # Whether or not the trait list will display the command a viewer should type for adding/removing that trait.
+    usage: false
+  kinds:
+    # Whether or not the kind list will display karma type overrides.
+    karma: true
+    # Whether or not the kind list will display the command a viewer should type for purchasing that kind.
+    usage: false
+  items:
+    # Whether or not the item list will display an item's in-game category.
+    category: true
+    # Whether or not the item list will display an item's purchase weight.
+    weight: true
+    # Whether or not the item list will display an item's karma type override.
+    karma: true
+    # Whether or not the item list will display an item's quantity limit.
+    quantity: true
+    # Whether or not the item list will display the mod that added it.
+    mod: true
+    # Whether or not the item list will display the command a viewer should type for purchasing that item.
+    usage: true
+  events:
+    # Whether or not the event list will display the command a viewer should type for purchasing that event.
+    usage: false
+  animals:
+    # Whether or not the animal list will display the command a viewer should type for purchasing that animal.
+    usage: false
+
+commands:
+  # Whether or not the command list will display the command's shortcut disclaimer.
+  shortcut: true
+  # Whether or not the command list will display the command's required user level.
+  userlevel: true
+  # Whether or not the command list will display the command's uage.
+  usage: true
+
+mods:
+  # Whether or not the mod list will display the mod's version.
+  version: true
+  # Whether or not the mod list will display the mod's author(s).
+  author: true
+
+store_redirects:
+  trait:
+    - 'removetrait'
+    - 'trait'
+    - 'replacetrait'
+  kind:
+    - 'pawn'
+  item:
+    - 'backpack'
+    - 'surgery'
+
+# Build settings
+remote_theme: SirRandoo/Type-on-Strap
+plugins:
+  -
