@@ -331,6 +331,51 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "hailstorm",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drunkmuffalos",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "protectionfee",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "caravanraidquest",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wantedquest",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -357,7 +402,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -394,27 +439,7 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "unlockaura",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "unlocksemblance",
-		"price": 30000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "nuckelavee",
-		"price": 1900,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "grimmwandersin",
-		"price": 1100,
-		"karmatype": "Bad"
 	}
 	],
-	"total": 83
+	"total": 88
 }
