@@ -103,6 +103,16 @@
     "data": {
       "isShortcut": false
     },
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Adds you to the name queue.",
     "name": "Join queue",
     "usage": "!joinqueue",
@@ -586,6 +596,15 @@
     "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "name": "joinraid",
+    "usage": "!joinraid",
+    "userLevel": "Anyone",
     "shortcut": false
   }
 ]
